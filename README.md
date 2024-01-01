@@ -8,3 +8,5 @@
 - 👨🏻‍🔧 I have experience in OpenGL (1.1-4.5), Vulkan, and some experience with electron.js
 - 💬 Ask me about anything console programming, graphics, or systems!
 - 📫 How to reach me: iridescentrosesfall@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IridescentRose&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
